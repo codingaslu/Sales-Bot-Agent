@@ -48,7 +48,7 @@ I built an AI sales agent for a computer equipement Ecommerce website, the agent
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/ai-sales-agent.git
+   git clone https://github.com/codingaslu/Sales-Bot-Agent.git
    cd ai-sales-agent/website-sale-agent
    ```
 
